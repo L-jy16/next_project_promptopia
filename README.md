@@ -1,5 +1,5 @@
 # next_Promptopia
-Next.js 14를 이용한 프롬프트을 공유하는 사이트 입니다.
+Next.js를 이용한 프롬프트을 공유하는 사이트 입니다.
 
 ## 설치
 
@@ -11,7 +11,7 @@ Next.js 14를 이용한 프롬프트을 공유하는 사이트 입니다.
 사이트 바로가기 : [next_Promptopia]()
 
 ## 프로젝트 소개
-Next.js 14와 Tailwind.css 이용하여 프롬프트을 공유하는 사이트 입니다. 로그인의 경우 구글과 연동하여 로그인을 할 수 있게 끔 하였습니다.
+Next.js와 Tailwind.css 이용하여 프롬프트을 공유하는 사이트 입니다. 로그인의 경우 구글과 연동하여 로그인을 할 수 있게 끔 하였습니다.
 
 ### 참고사이트
 참고사이트 : [참고 사이트 바로가기](https://www.youtube.com/watch?v=wm5gMKuwSYk)
